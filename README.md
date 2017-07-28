@@ -14,4 +14,4 @@ Weather : `bash weather.sh`
 
 Recommendations : `bash recommendation.sh`
 
-Then follow the instruction
+Cheatsheet : `bash cheatsheet.sh`
