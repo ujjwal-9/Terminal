@@ -15,3 +15,5 @@ Weather : `bash weather.sh`
 Recommendations : `bash recommendation.sh`
 
 Cheatsheet : `bash cheatsheet.sh`
+
+QR-Encoder : `bash qrencoder.sh`
