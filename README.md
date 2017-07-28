@@ -17,3 +17,5 @@ Recommendations : `bash recommendation.sh`
 Cheatsheet : `bash cheatsheet.sh`
 
 QR-Encoder : `bash qrencoder.sh`
+
+GitHub-Repos : `bash github_repos.sh`
