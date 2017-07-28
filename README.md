@@ -13,5 +13,7 @@ watch video in color: `bash ytube_colorful.sh`
 
 your location: `bash geolocation.sh`
 
+Weather : `bash weather.sh`
+
 
 Then follow the instruction
